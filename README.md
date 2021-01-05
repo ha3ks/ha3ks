@@ -14,6 +14,13 @@ CompTIA Linux+, Network+ and Security+ Certifications via Cybrary
 
 In addition I have a handful of other CyberSecurity Certifications and Qualifications in addition to years of experience in computing and technical support, oh and I also maintain my perosnal blog [ha3ks.tech](http://ha3ks.tech) as well.
 
+##### Statistics about my activity
+
+| Title                                       |    24-hours |      7-days |        Month |
+| :------------------------------------------ | ----------: | ----------: | -----------: |
+| :hourglass_flowing_sand: Hours Spent Coding | **0.00hrs** | **1.12hrs** |  **1.12hrs** |
+| :computer: Commands                         |      **23** |     **536** |    **1,218** |
+
 
 <!--
 **ha3ks/ha3ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
