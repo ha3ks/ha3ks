@@ -22,6 +22,8 @@ In addition I have a handful of other CyberSecurity Certifications and Qualifica
 | :computer: Commands                         |      **23** |     **536** |    **1,218** |
 
 
+![Dans's github stats](https://github-readme-stats.vercel.app/api?username=ha3ks&show_icons=true)
+
 <!--
 **ha3ks/ha3ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
