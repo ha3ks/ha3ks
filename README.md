@@ -1,16 +1,13 @@
-### Hi there 👋
+#### Hey there, you've landed on my GitHub profile 👋
+##### Take a few minutes to read about me and what I do.
 
-<!--
-**ha3ks/ha3ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m Dan.
+- 🌱 I’m a freelance Cyber Security Analyst and Coder.
+- 👯 I’m Currently looking for work (remote if possible).
+- 🤔 I’m an impressively quick study and have picked up many CyberSec Qualifications in a short time.
+- 💬 I enjoy being a part of the community.
+- 📫 How to reach me: Best bet is via Social Media or email.
+- 😄 Pronouns: he/him/his.
+- ⚡ Fun fact: I once drew a working QR Code by hand!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dans's github stats](https://github-readme-stats.vercel.app/api?username=ha3ks&show_icons=true)
