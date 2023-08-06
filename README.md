@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>Support</td>
-    <td><a href="https://ko-fi.com/ha3ks"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="300" height="50" alt="Sponsor" /></a></td>
+    <td><a href="https://ko-fi.com/ha3ks"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="280" height="40" alt="Sponsor" /></a></td>
   </tr>
 </table>
 
