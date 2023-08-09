@@ -23,7 +23,8 @@
   </tr>
   <tr>
     <td>Support</td>
-    <td><a href="https://ko-fi.com/ha3ks"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="280" height="40" alt="Sponsor" /></a></td>
+    <td><a href="https://ko-fi.com/ha3ks"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="280" height="40" alt="Sponsor" /></a>
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ha3ks" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script></td>
   </tr>
 </table>
 
