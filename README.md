@@ -2,9 +2,9 @@
 ##### Take a few minutes to read about me and what I do.
 
 - 🔭 I’m Dan.
-- 🌱 I’m a freelance Cyber Security Analyst and Coder.
-- 👯 I’m Currently looking for work (remote if possible).
-- 🤔 I’m an impressively quick study and have picked up many CyberSec Qualifications in a short time.
+- 🌱 I’m a Network Security Ninja - among other things
+- 👯 I’m Currently in a role but as Bertram Gilfoyle says; 'Dazzle me'.
+- 🤔 I’m an impressively quick study and have picked up many Qualifications in a short time.
 - 💬 I enjoy being a part of the community.
 - 📫 How to reach me: Best bet is via Social Media or email.
 - 😄 Pronouns: he/him/his.
