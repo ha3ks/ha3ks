@@ -1,15 +1,3 @@
-#### Hey there, you've landed on my GitHub profile 👋
-##### Take a few minutes to read about me and what I do.
-
-- 🔭 I’m Dan.
-- 🌱 I’m a Network Security Ninja - among other things
-- 👯 I’m Currently in a role but as Bertram Gilfoyle says; 'Dazzle me'.
-- 🤔 I’m an impressively quick study and have picked up many Qualifications in a short time.
-- 💬 I enjoy being a part of the community.
-- 📫 How to reach me: Best bet is via Social Media or email.
-- 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: I once drew a working QR Code by hand!
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github.com/ha3ks#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ha3ks&show_icons=true&theme=swift#gh-light-mode-only" width="400px" alt="GitHub-Stats-Light" /></a>
@@ -21,10 +9,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
-  <tr>
-    <td>You're visitor</td>
-    <td><a href="https://github.com/ha3ks"><img src="https://profile-counter.glitch.me/ha3ks/count.svg" alt="Counter" /></a></td>
-  </tr>
   <tr>
     <td>Support</td>
     <td><a href="https://ko-fi.com/ha3ks"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="280" height="40" alt="Sponsor" /></a></td>
