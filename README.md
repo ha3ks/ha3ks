@@ -1,21 +1,14 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Welcome to my slice of the git pie</h1>
 
-<a href="https://github.com/ha3ks#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ha3ks&show_icons=true&theme=swift#gh-light-mode-only" width="400px" alt="GitHub-Stats-Light" /></a>
-<a href="https://github.com/ha3ks#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ha3ks&layout=compact&theme=swift#gh-light-mode-only" width="325px" alt="Top-Langs-Light" /></a>
+## About Me 
 
-<a href="https://github.com/ha3ks#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ha3ks&show_icons=true&theme=cobalt#gh-dark-mode-only" width="400px" alt="GitHub-Stats-Dark" /></a>
-<a href="https://github.com/ha3ks#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ha3ks&layout=compact&theme=cobalt#gh-dark-mode-only" width="325px" alt="Top-Langs-Dark" /></a>
+Hi I'm Dan, you may know me from many popular internet websites such as [Twitter/X](https://x.com/ha3ks), [Bluesky](https://bsky.app/profile/ha3ks.com) or [LinkedIn](https://www.linkedin.com/in/accountreset).
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+I 'work' in the Computer/Networking/Security field, I have a lot of experience and wear many hats (mainly to hide the bald patches). I dabble in programming, currently [Rust](https://rust-lang.org/) and I am known for debunking a lot of the FUD (Fear, Uncertainty and Doubt) marketing that companies or people do, so much so that I have been awarded for this and received various thanks and challenge coins from suppliers/companies #swag
 
-<table>
-  <tr>
-    <td>Support</td>
-    <td><a href="https://ko-fi.com/ha3ks"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width="280" height="40" alt="Sponsor" /></a></td>
-  </tr>
-</table>
+I guess you could say I am in it for the long run and I like to help others along the way be it directly or by sharing my experiences and knowledge via [the blog](https://www.ha3ks.com/).
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+I encourage you to share, help grow open source and protect your data.
 
 <details>
   <summary>DISCLAIMER</summary>
@@ -23,6 +16,9 @@
   > All the tools associated with this GitHub account are provided for educational and research purposes only. The owner of the account is not responsible for any illegal use of any of the related tooling.
 </details>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+# Nerd Stats
+
+Yeah I know it isn't much, a lot of my work is not tracked via GitHub activity.
+
+<a href="https://github.com/ha3ks#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ha3ks&show_icons=true&theme=swift#gh-light-mode-only" width="400px" alt="GitHub-Stats-Light" /></a>
+<a href="https://github.com/ha3ks#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ha3ks&layout=compact&theme=swift#gh-light-mode-only" width="325px" alt="Top-Langs-Light" /></a>
