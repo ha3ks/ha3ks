@@ -22,3 +22,6 @@ Yeah I know it isn't much, a lot of my work is not tracked via GitHub activity.
 
 <a href="https://github.com/ha3ks#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ha3ks&show_icons=true&theme=swift#gh-light-mode-only" width="400px" alt="GitHub-Stats-Light" /></a>
 <a href="https://github.com/ha3ks#gh-light-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ha3ks&layout=compact&theme=swift#gh-light-mode-only" width="325px" alt="Top-Langs-Light" /></a>
+
+<a href="https://github.com/ha3ks#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ha3ks&show_icons=true&theme=cobalt#gh-dark-mode-only" width="400px" alt="GitHub-Stats-Dark" /></a>
+<a href="https://github.com/ha3ks#gh-dark-mode-only"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ha3ks&layout=compact&theme=cobalt#gh-dark-mode-only" width="325px" alt="Top-Langs-Dark" /></a>
